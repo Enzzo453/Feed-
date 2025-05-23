@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OOFVídeo - Portal de Vídeos da Escola</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>OOFVídeo</h1>
+    <p>Bem-vindo ao portal de vídeos da nossa escola!</p>
+    <input type="text" id="search" placeholder="Buscar vídeo..." oninput="filtrarVideos()" />
+  </header>
+
+  <main id="videoContainer">
+    <div class="video-card">
+      <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="Exemplo de Vídeo" allowfullscreen></iframe>
+      <h3>Apresentação da Escola</h3>
+    </div>
+    <div class="video-card">
+      <iframe src="https://www.youtube.com/embed/tgbNymZ7vqY" title="Vídeo Educativo" allowfullscreen></iframe>
+      <h3>Aula de Ciências</h3>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
+</bodytype>=avatar
+</clothestype>=avatar
+</cocsignature>=login
+</games>=playwithfriends.
